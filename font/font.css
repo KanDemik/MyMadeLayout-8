@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "DM Sans";
+    src: url(DMSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "DM Sans";
+    src: url(DMSans-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "DM Sans";
+    src: url(DMSans-Bold.ttf);
+    font-weight: 700;
+}
+
+
+@font-face {
+    font-family: "Rubik";
+    src: url(Rubik.ttf);
+    font-weight: 400;
+}
+
